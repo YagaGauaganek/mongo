@@ -1,10 +1,10 @@
 import React from 'react';
-import './Home.ss'
+import './Home.css'
 
 export default function Home() {
   return (
     <main>
-        <h3>lgkc</h3>
+        <h3>Welcome to the Home page</h3>
     </main>
 
   )
