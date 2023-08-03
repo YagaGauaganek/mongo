@@ -12,4 +12,4 @@ to do:
 
 - add data to front end 
 
-- push data to netlify (frontend) and render (server/backend7)
+- push data to netlify (front end) and render (server/back end)
